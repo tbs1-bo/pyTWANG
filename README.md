@@ -1,5 +1,7 @@
 ## Welcome to pyTWANG
 
+**This is a fork of [pyTWang](https://github.com/esden/pyTWANG).**
+
 This is a "port" or rather a rewrite of the 1D dungeon crawler called TWANG.
 
 The original game is written for Arduino and is inspired by the game wobbler.
